@@ -1,2 +1,2 @@
 # scripts
-yea these are just obfuscated scripts
+yea these are just scripts
